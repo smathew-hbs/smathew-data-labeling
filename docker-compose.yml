@@ -28,7 +28,7 @@ services:
             - ../secrets:/secrets
         environment:
             LABEL_STUDIO_DISABLE_SIGNUP_WITHOUT_LINK: "true"
-            LABEL_STUDIO_USERNAME: "pavlos@seas.harvard.edu"
+            LABEL_STUDIO_USERNAME: "mat_sunil@hotmail.com"
             LABEL_STUDIO_PASSWORD: "awesome"
             GOOGLE_APPLICATION_CREDENTIALS: /secrets/data-service-account.json
             GCP_PROJECT: "ac215-project"
