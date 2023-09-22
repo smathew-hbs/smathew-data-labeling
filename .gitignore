@@ -1,3 +1,5 @@
 # misc
 .DS_Store
 /docker-volumes
+mushrooms_unlabeled.zip
+mushrooms_unlabeled/
